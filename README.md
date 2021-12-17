@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmoudml
+- 👋 Hi, I’m @Mahmoud Rabea
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysis professional track from Udacity
 - 💞️ I’m looking to work a leading company in data analysis
